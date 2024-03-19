@@ -14,6 +14,8 @@ public class Test2 {
 		{
 			System.out.println("DO work ...");
 		}
+		
+		System.out.println("hi..");
 	}
 
 }
